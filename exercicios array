@@ -1,0 +1,60 @@
+//EXERCICIOS DE INTERPRETAÇÃO
+
+//1-
+
+//UNDEFINED (Não atribuiu um valor)
+
+//NULL (valor da array NULL)
+
+//12 (pediu para ler os elementos do array)
+
+// criou uma variavel com valor (0)
+
+// substituiu os valor da posição 1 (numero 4) por 19
+
+//substituiu o valor da posição 6(numero 10) por 0
+
+//2-
+
+//SUBI NUM ONIBUS EM MIRROCOS
+//27 
+
+//EXERCICIOS DE CODIGO
+
+//1
+
+//let nome = prompt("diga seu nome");
+//let email = prompt("diga seu email")
+
+//console.log = prompt("O email" + email + " foi cadastrado com sucesso. seja bem vinda(o)" + nome + ("!") )
+
+//2-
+
+
+//let array1 = ["sushi", "bife aparegiana", "xis", "alaminuta", "panqueca" ]
+//console.log (array1[0])
+//console.log (array1[1])
+//console.log (array1[2])
+//console.log (array1[3])
+//console.log (array1[4])
+
+//array1[1] = prompt("qual sua comida prerida?")
+
+//console.log (array1)
+
+//3-
+
+//let listadetarefas = []
+//let tarefa1 = prompt("que tarefa voce precisa fazer no dia a dia?")
+//let tarefa2 = prompt("que tarefa voce precisa fazer no dia a dia?")
+//let tarefa3 = prompt("que tarefa voce precisa fazer no dia a dia?")
+
+//listadetarefas.push(tarefa1)
+//listadetarefas.push(tarefa2)
+//listadetarefas.push(tarefa3)
+
+//console.log (listadetarefas)
+
+//let tarefaRealizada = Number(prompt("Digite o indice da tarefa realizad"));
+//listadetarefas.splice(tarefaRealizada, 1);
+//console.log(listadetarefas);
